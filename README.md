@@ -3,6 +3,7 @@
 Live Version: https://vigilant-goldstine-7e503a.netlify.app
 
 To run this follow the given steps
-cd imdb-app
-npm start
+
+-cd imdb-app
+-npm start
 
