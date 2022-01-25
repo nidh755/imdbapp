@@ -1,4 +1,4 @@
-#Movie Search App using redux toolkit and axios
+Movie Search App using redux toolkit and axios
 
 Live Version: https://vigilant-goldstine-7e503a.netlify.app
 
