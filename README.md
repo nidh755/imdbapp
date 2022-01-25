@@ -8,3 +8,6 @@ To run this follow the given steps
 
 -npm start
 
+For the styling part scss were used.
+
+following packages were needed to be install like axios, @reduxjs/toolkit, node sass, react-router-dom.
